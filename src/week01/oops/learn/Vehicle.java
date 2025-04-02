@@ -1,4 +1,9 @@
 package week01.oops.learn;
 
 public interface Vehicle {
+    void drive();
+
+    void run();
+
+    void stop();
 }
