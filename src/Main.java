@@ -1,6 +1,6 @@
-import week01.oops.learn.AutomaticCar;
-import week01.oops.learn.Car;
-import week01.oops.learn.Colors;
+import week02.oops.learn.AutomaticCar;
+import week02.oops.learn.Car;
+import week02.oops.learn.Colors;
 
 public class Main {
 
