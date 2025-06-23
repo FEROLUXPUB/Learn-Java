@@ -1,3 +1,5 @@
+package com.bootcamp.week01;
+
 import java.util.Scanner;
 
 public class Calculator {
